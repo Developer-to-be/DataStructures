@@ -1,1 +1,0 @@
-This Folder contains solutions for Popular Array Problems.
